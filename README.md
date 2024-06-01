@@ -5,7 +5,7 @@ This repository houses three separate machine learning projects that tackle vari
 
 ## Projects
 
-1. [Predicting Breast Cancer in a Patient](#predicting-breast-cancer-in-a-patient)
+1. [Predicting Breast Cancer in a Patients](#predicting-breast-cancer-in-a-patient)
 2. [E-commerce Customer Segmentation](#e-commerce-customer-segmentation)
 3. [Predicting Term Deposit Subscription by a Client](#predicting-term-deposit-subscription-by-a-client)
 
@@ -89,7 +89,7 @@ To run the customer segmentation project, execute the following command in your 
 `customer_segmentation.ipynb`
 
 
-### Project 3: Predicting Term Deposit Subscription by a Client
+## Project 3: Predicting Term Deposit Subscription by a Client
 
 ## Overview
 This project aims to predict whether a client will subscribe to a term deposit when contacted by a marketing agent. By analyzing various client attributes and previous campaign data, we use Support Vector Machine (SVM) for the predictive analytics.
