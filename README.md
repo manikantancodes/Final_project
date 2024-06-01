@@ -27,8 +27,7 @@ The dataset includes predictor variables that describe characteristics of cell n
 - ROC AUC Score
 
 ### Execution:
-``bash
-python breast_cancer_prediction.ipynbpy
+`breast_cancer_prediction.ipynbpy`
 
 
 # Project 2: E-commerce Customer Segmentation
@@ -78,8 +77,7 @@ The dataset includes customer IDs, gender, order counts, and search frequencies 
 
 ## Running the Project
 To run the customer segmentation project, execute the following command in your terminal:
-``bash
-python_customer_segmentation.ipynb
+`customer_segmentation.ipynb`
 
 
 # Project 3: Predicting Term Deposit Subscription by a Client
