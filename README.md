@@ -2,6 +2,15 @@
 
 This repository houses three separate machine learning projects that tackle various predictive analytics challenges. The projects include breast cancer prediction using ensemble techniques, e-commerce customer segmentation via k-means clustering, and term deposit subscription prediction with support vector machines (SVM). Each project involves steps like data preprocessing, exploratory data analysis (EDA), model development, evaluation, and hyperparameter tuning.
 
+
+## Projects
+
+1. [Predicting Breast Cancer in a Patient](#predicting-breast-cancer-in-a-patient)
+2. [E-commerce Customer Segmentation](#e-commerce-customer-segmentation)
+3. [Predicting Term Deposit Subscription by a Client](#predicting-term-deposit-subscription-by-a-client)
+
+
+
 ## Project 1: Predicting Breast Cancer in Patients
 
 ### Overview
