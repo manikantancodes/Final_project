@@ -141,7 +141,7 @@ The dataset contains information related to direct marketing campaigns of a Port
 - **Hyperparameter Tuning**: Use techniques like grid search or random search to find the best parameters for the SVM model
 
 ## Scripts
-- `term_deposit_subscription.py`: Contains code for preprocessing, EDA, model training, hyperparameter tuning, and evaluation.
+- `term_deposit_prediction.py`: Contains code for preprocessing, EDA, model training, hyperparameter tuning, and evaluation.
 
 ## Evaluation Metrics
 - **Accuracy**: Measures the overall correctness of the model
@@ -153,4 +153,4 @@ The dataset contains information related to direct marketing campaigns of a Port
 
 ## Running the Project
 Open and run the 
-`term_deposit_subscription.ipynb` notebook.
+`term_deposit_prediction.ipynb` notebook.
