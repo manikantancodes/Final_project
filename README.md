@@ -1,16 +1,6 @@
-# Final project
 # Machine Learning Projects
 
 This repository houses three separate machine learning projects that tackle various predictive analytics challenges. The projects include breast cancer prediction using ensemble techniques, e-commerce customer segmentation via k-means clustering, and term deposit subscription prediction with support vector machines (SVM). Each project involves steps like data preprocessing, exploratory data analysis (EDA), model development, evaluation, and hyperparameter tuning.
-
-
-## Projects
-
-1. [Predicting Breast Cancer in a Patient](#predicting-breast-cancer-in-a-patient)
-2. [E-commerce Customer Segmentation](#e-commerce-customer-segmentation)
-3. [Predicting Term Deposit Subscription by a Client](#predicting-term-deposit-subscription-by-a-client)
-
-### Predicting Breast Cancer in a Patient
 
 ## Project 1: Predicting Breast Cancer in Patients
 
@@ -27,7 +17,7 @@ The dataset includes predictor variables that describe characteristics of cell n
 4. **Hyperparameter Optimization**
 
 ### Main Script:
-- `breast_cancer_prediction.ipynb`: Contains code for preprocessing, EDA, model training, evaluation, and tuning.
+- `breastcancer_prediction.ipynb`: Contains code for preprocessing, EDA, model training, evaluation, and tuning.
 
 ### Evaluation Metrics:
 - Accuracy
@@ -37,7 +27,7 @@ The dataset includes predictor variables that describe characteristics of cell n
 - ROC AUC Score
 
 ### Execution:
-```bash
+``bash
 python breast_cancer_prediction.ipynbpy
 
 
@@ -88,7 +78,7 @@ The dataset includes customer IDs, gender, order counts, and search frequencies 
 
 ## Running the Project
 To run the customer segmentation project, execute the following command in your terminal:
-```bash
+``bash
 python_customer_segmentation.ipynb
 
 
@@ -153,7 +143,7 @@ The dataset contains information related to direct marketing campaigns of a Port
 - **Hyperparameter Tuning**: Use techniques like grid search or random search to find the best parameters for the SVM model
 
 ## Scripts
-- `term_deposit_prediction.py`: Contains code for preprocessing, EDA, model training, hyperparameter tuning, and evaluation.
+- `term_deposit_subscription.py`: Contains code for preprocessing, EDA, model training, hyperparameter tuning, and evaluation.
 
 ## Evaluation Metrics
 - **Accuracy**: Measures the overall correctness of the model
@@ -164,4 +154,5 @@ The dataset contains information related to direct marketing campaigns of a Port
 - **AUC-ROC**: Measures the area under the receiver operating characteristic curve
 
 ## Running the Project
-Open and run the `term_deposit_prediction.ipynb` notebook.**
+Open and run the 
+`term_deposit_subscription.ipynb` notebook.
