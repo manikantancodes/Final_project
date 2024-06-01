@@ -17,7 +17,7 @@ The dataset includes predictor variables that describe characteristics of cell n
 4. **Hyperparameter Optimization**
 
 ### Main Script:
-- `breastcancer_prediction.ipynb`: Contains code for preprocessing, EDA, model training, evaluation, and tuning.
+- `breast_cancer_prediction.ipynb`: Contains code for preprocessing, EDA, model training, evaluation, and tuning.
 
 ### Evaluation Metrics:
 - Accuracy
@@ -27,7 +27,7 @@ The dataset includes predictor variables that describe characteristics of cell n
 - ROC AUC Score
 
 ### Execution:
-`breast_cancer_prediction.ipynbpy`
+`breast_cancer_prediction.ipynb`
 
 
 # Project 2: E-commerce Customer Segmentation
@@ -141,7 +141,7 @@ The dataset contains information related to direct marketing campaigns of a Port
 - **Hyperparameter Tuning**: Use techniques like grid search or random search to find the best parameters for the SVM model
 
 ## Scripts
-- `term_deposit_prediction.py`: Contains code for preprocessing, EDA, model training, hyperparameter tuning, and evaluation.
+- `term_deposit_prediction.ipynb`: Contains code for preprocessing, EDA, model training, hyperparameter tuning, and evaluation.
 
 ## Evaluation Metrics
 - **Accuracy**: Measures the overall correctness of the model
