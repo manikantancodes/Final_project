@@ -39,7 +39,7 @@ The dataset includes predictor variables that describe characteristics of cell n
 `breast_cancer_prediction.ipynb`
 
 
-# Project 2: E-commerce Customer Segmentation
+## Project 2: E-commerce Customer Segmentation
 
 ## Overview
 This project focuses on clustering e-commerce customers based on their activity using the k-means clustering algorithm. Customer segmentation is essential for understanding customer behavior and improving targeting strategies.
@@ -89,7 +89,7 @@ To run the customer segmentation project, execute the following command in your 
 `customer_segmentation.ipynb`
 
 
-# Project 3: Predicting Term Deposit Subscription by a Client
+### Project 3: Predicting Term Deposit Subscription by a Client
 
 ## Overview
 This project aims to predict whether a client will subscribe to a term deposit when contacted by a marketing agent. By analyzing various client attributes and previous campaign data, we use Support Vector Machine (SVM) for the predictive analytics.
